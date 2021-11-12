@@ -71,6 +71,12 @@ This is an example of how use Scala with ROS2, based on [RCLJava](https://github
         CLASSPATH=/usr/share/scala-2.11/lib/*:$CLASSPATH
         export CLASSPATH
 
+1. Clone ros2-scala-example into your `src` directory.
+
+        cd src
+        git clone https://github.com/xander-will/ros2_scala_example.git
+        cd ..
+
 1. Build the Scala example package.
 
         colcon build --packages-select scala_example
