@@ -20,12 +20,12 @@ This is an example of how use Scala with ROS2, based on [RCLJava](https://github
 
         sudo nano /etc/profile.d/gradle.sh
 
-Then copy-and-paste the following
+    Then copy-and-paste the following
 
         export GRADLE_HOME=/opt/gradle/latest
         export PATH=${GRADLE_HOME}/bin:${PATH}
 
-Save and close the file. Then make the script executable and source the script.
+    Save and close the file. Then make the script executable and source the script.
 
         sudo chmod +x /etc/profile.d/gradle.sh
 
