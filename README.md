@@ -11,6 +11,7 @@ This is an example of how use Scala with ROS2, based on [RCLJava](https://github
         sudo apt install default-jdk
 
 1. Install Gradle. Make sure you check the [gradle releases page](https://gradle.org/releases/) to see if a newer version is available.
+
     VERSION=7.3
     wget https://services.gradle.org/distributions/gradle-${VERSION}-bin.zip -P /tmp
     sudo unzip -d /opt/gradle /tmp/gradle-${VERSION}-bin.zip
