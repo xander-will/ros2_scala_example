@@ -7,6 +7,7 @@ This is an example of how use Scala with ROS2, based on [RCLJava](https://github
 1. Install [ROS2](https://docs.ros.org/en/foxy/Installation/Ubuntu-Install-Debians.html) (this example is for Foxy).
 
 1. Install Java and a JDK.
+
         sudo apt install default-jdk
 
 1. Install Gradle. Make sure you check the [gradle releases page](https://gradle.org/releases/) to see if a newer version is available.
