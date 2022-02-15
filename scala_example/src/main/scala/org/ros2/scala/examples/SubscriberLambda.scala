@@ -1,4 +1,4 @@
-package org.ros2.scala.examples;
+package org.ros2.rcljava.scala.examples;
 
 import org.ros2.rcljava.RCLJava;
 import org.ros2.rcljava.consumers.Consumer;
